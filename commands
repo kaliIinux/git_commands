@@ -1,0 +1,7 @@
+# Comandos do git
+
+  1. Para clonar um repositório do github no pc: git clone <link_do_repositório>
+  2. Criar branch no repositório: git checkout -b <nome_da_branch>
+  3. Commitar: git commit -m "Subindo a branch"
+  4. Push nos arquivos: git push -u origin <nome_da_branch>
+  5. Para clonar uma branch específica de um repositório: git clone -b <nome_da_branch> <link_do_repositório>
